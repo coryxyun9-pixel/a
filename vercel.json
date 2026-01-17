@@ -20,7 +20,4 @@
       "dest": "/server.js"
     }
   ],
-  "env": {
-    "NIM_API_KEY": "@nim_api_key"
-  }
 }
